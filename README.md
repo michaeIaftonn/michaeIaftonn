@@ -1,5 +1,3 @@
-<p align="center">
-"▇▇▇▇ said something about vandalising your house. Hasn't come back since. Now leave."
 
 
 <p align="center">
