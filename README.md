@@ -1,8 +1,8 @@
 
 
 <p align="center">
-<img width="536" height="457" alt="image" src="https://github.com/user-attachments/assets/6f07c88c-4c92-4b1b-a661-80ed2ca0f1eb
 
+  ![ac243e9de648b70994e1e19fda72259e (1)](https://github.com/user-attachments/assets/0b9dc84f-6a1d-4ea2-bf69-1b62aee6c50f)
 
 <p align="center">
   
